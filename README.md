@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ryan! <br/><a href="https://github.com/joshmadakor1">Software Quality Assurance Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Ryan! <br/><a href="https://github.com/joshmadakor1">Software Quality Assurance Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">Hardware Quality Engineer</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
